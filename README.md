@@ -7,5 +7,8 @@ A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS
 * CSS Animations
 * Javascript
 
+For run the project we have to click on go live and it can run without npm.
+It's an only frontend web page and working on backend...
+
 
 
